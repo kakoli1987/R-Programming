@@ -1,13 +1,5 @@
----
-title: "R Language for Beginner"
-author: "kakoli"
-date: "2024-12-13"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 ## R language Defination
 R is a programming language for statistical computing and data visualization.The R programming language is an open source language. R is frequently used for data analysis.R has a convenient library of ready-to-use tools for data cleaning and analysis.
 
